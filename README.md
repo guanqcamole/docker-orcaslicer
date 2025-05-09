@@ -1,6 +1,6 @@
 # QPrints
 
-QPrints is a Docker-based 3D printing solution integrating OrcaSlicer, OctoPrint, and OctoEverywhere for browser-based slicing and semi-remote printer management. It supports the Lulzbot Mini 2 with webcam monitoring via a Raspberry Pi.
+QPrints is a Docker-based 3D printing solution integrating OrcaSlicer, OctoPrint, and OctoEverywhere for browser-based slicing and remote printer management. It supports the Lulzbot Mini 2 with webcam monitoring via a Raspberry Pi.
 
 ## Setup Instructions
 
