@@ -36,6 +36,8 @@ RUN \
     libgstreamer-plugins-bad1.0 \
     libgstreamer-plugins-base1.0 \
     libwebkit2gtk-4.0-37 \
+    libgtk-3-0 \
+    libgl1-mesa-dri \
     libwx-perl && \
   echo "**** install oracaslicer from appimage ****" && \
   if [ -z ${ORCASLICER_VERSION+x} ]; then \
