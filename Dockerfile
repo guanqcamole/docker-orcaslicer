@@ -23,7 +23,6 @@ RUN \
     firefox-esr \
     gstreamer1.0-alsa \
     gstreamer1.0-gl \
-    gstreamer1.0-gtk3 \
     gstreamer1.0-libav \
     gstreamer1.0-plugins-bad \
     gstreamer1.0-plugins-base \
